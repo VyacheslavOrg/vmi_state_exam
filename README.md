@@ -22,6 +22,8 @@
 
 Таблица с распределением заданий и индексом ответов на [Google Sheets](https://docs.google.com/spreadsheets/d/1qr4KnwDtzLYsR7hYW_tZXOcOxSEG_Sq_n_2yl-p8YkE/edit?usp=sharing).
 
-###### ![Logo](http://cs5219.vk.me/g30315970/a_7ee0fc01.jpg) Авторы: [Безбородов В.А.](http://vk.com/dbits), Дрёмов В.Е., Гарфутдинова А.Р., Загирова Е.А., Мекаев П., Понькин К.И.
+###### Авторы: [Безбородов В.А.](http://vk.com/dbits), Дрёмов В.Е., Гарфутдинова А.Р., Загирова Е.А., Мекаев П., Понькин К.И.
+
+![Logo](http://cs5219.vk.me/g30315970/a_7ee0fc01.jpg)
 
 ###### Челябинск, 2015 г.
