@@ -1,3 +1,5 @@
+![Logo](http://cs5219.vk.me/g30315970/a_7ee0fc01.jpg)
+
 # Ответы на ГОСы
 
 #### Южно-Уральский государственный университет
@@ -28,7 +30,5 @@
 В каждом каталоге находится файл _Index.md_, содержащий ссылки на литературу.
 
 Таблица с распределением заданий и индексом ответов на [Google Sheets](https://docs.google.com/spreadsheets/d/1qr4KnwDtzLYsR7hYW_tZXOcOxSEG_Sq_n_2yl-p8YkE/edit?usp=sharing).
-
-![Logo](http://cs5219.vk.me/g30315970/a_7ee0fc01.jpg)
 
 ###### Челябинск, 2015 г.
