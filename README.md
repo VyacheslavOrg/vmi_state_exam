@@ -8,17 +8,13 @@
 
 Представлены ответы на вопросы по следующим дисциплинам:
 
-1. Дискретная математика;
-2. Дифференциальные уравнения;
-3. Численные методы;
-4. Теория вероятностей;
-5. [Математическая статистика](/Answ/5. Math stat/);
-6. [Общая теория статистики и эконометрика](/Answ/6. General stat theory and econometrics/);
-7. [Методы оптимизации](/Answ/7. Optimization methods/);
-8. [Теория игр](/Answ/8. Game Theory/);
-9. [Алгоритмизация и программирование](/Answ/9. Algorithmization and programming/);
-10. [Базы данных и знаний](/Answ/11. Databases/);
-11. [Компьютерные сети](/Answ/10. Networks/).
+1. [Математическая статистика](/Answ/Math stat/);
+2. [Общая теория статистики и эконометрика](/Answ/General stat theory and econometrics/);
+3. [Методы оптимизации](/Answ/Optimization methods/);
+4. [Теория игр](/Answ/Game Theory/);
+5. [Алгоритмизация и программирование](/Answ/Algorithmization and programming/);
+6. [Базы данных и знаний](/Answ/Databases/);
+7. [Компьютерные сети](/Answ/Networks/).
 
 Репозиторий имеет следующую **структуру**:
 
