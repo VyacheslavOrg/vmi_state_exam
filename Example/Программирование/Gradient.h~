@@ -1,0 +1,31 @@
+#ifndef GRADIENT
+#define GRADIENT
+
+#include "Point.h"
+
+
+
+template< typename T, std::size_t Dimension >
+class Gradient
+{
+  typedef T value_t;
+  typedef std::valarray< value_t > vector_t;
+  typedef Point< T, Dimension > point_t;
+
+
+
+public:
+
+  virtual ~Gradient()
+  {
+  
+  }
+
+
+
+  virtual vector_t operator() ( const point_t& point_t ) = 0;
+};
+
+
+
+#endif // GRADIENT

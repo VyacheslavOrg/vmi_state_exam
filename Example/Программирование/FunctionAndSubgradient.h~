@@ -1,0 +1,49 @@
+#ifndef FUNCTION_AND_SUBGRADIENT
+#define FUNCTION_AND_SUBGRADIENT
+
+#include "Function.h"
+#include "Subgradient.h"
+
+
+
+template< typename Function, typename Subgradient >
+class FunctionAndSubgradient
+{
+  typedef Function function_t;
+  typedef Subgradient subgradient_t;
+  typedef std::pair< function_t, subgradient_t > pair_t;
+
+
+
+public:
+
+  FunctionAndSubgradient( function_t&& function, subgradient_t&& subgradient )
+    : pair( std::make_pair( function, subgradient ) )
+  {
+  
+  }
+
+
+
+  function_t& function()
+  {
+    return this->pair.first;
+  }
+
+
+
+  subgradient_t& subgradient()
+  {
+    return this->pair.second;
+  }
+
+
+
+private:
+
+  pair_t pair;
+};
+
+
+
+#endif // FUNCTION_AND_SUBGRADIENT

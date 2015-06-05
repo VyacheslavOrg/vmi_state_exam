@@ -1,0 +1,19 @@
+#ifndef SUBGRADIENT
+#define SUBGRADIENT
+
+#include <functional>
+
+
+
+template< typename Point >
+class Subgradient : public std::function< Point( const Point& ) >
+{
+protected:
+
+  typedef Point point_t;
+
+};
+
+
+
+#endif // SUBGRADIENT

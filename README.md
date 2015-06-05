@@ -21,8 +21,4 @@
 * [Task](/Task/) - Задания к ГОСам;
 * [Answ](/Answ/) - Ответы, сгруппированные по дисциплинам.
 
-В каждом каталоге находится файл _Index.md_, содержащий ссылки на литературу.
-
-Таблица с распределением заданий и индексом ответов на [Google Sheets](https://docs.google.com/spreadsheets/d/1qr4KnwDtzLYsR7hYW_tZXOcOxSEG_Sq_n_2yl-p8YkE/edit?usp=sharing).
-
 ###### Челябинск, 2015 г.

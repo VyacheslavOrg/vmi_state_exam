@@ -1,0 +1,15 @@
+#ifndef FUNCTION_H
+#define FUNCTION_H
+
+#include <functional>
+
+#include "Point.h"
+
+
+
+template< typename T, std::size_t Dimension >
+typedef std::function< T( const Point< T, Dimension >& ) > Function;
+
+
+
+#endif // FUNCTION_H
