@@ -8,11 +8,11 @@
 
 Представлены ответы на вопросы по следующим дисциплинам:
 
-1. [Математическая статистика](/Answ/Math stat/);
-2. [Общая теория статистики и эконометрика](/Answ/General stat theory and econometrics/);
-3. [Методы оптимизации](/Answ/Optimization methods/);
-4. [Теория игр](/Answ/Game Theory/);
-5. [Алгоритмизация и программирование](/Answ/Algorithmization and programming/);
+1. [Математическая статистика](/Answ/MathStat/);
+2. [Общая теория статистики и эконометрика](/Answ/Stat/);
+3. [Методы оптимизации](/Answ/Optimization/);
+4. [Теория игр](/Answ/GameTheory/);
+5. [Алгоритмизация и программирование](/Answ/Programming/);
 6. [Базы данных и знаний](/Answ/Databases/);
 7. [Компьютерные сети](/Answ/Networks/).
 
